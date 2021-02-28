@@ -80,3 +80,7 @@ for x in lista:
 print(list(range(10)))
 for y in range(4, 25, 4):
   print(y)
+
+def func(x):
+  return x * x
+  
